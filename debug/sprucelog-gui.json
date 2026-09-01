@@ -1,5 +1,5 @@
 {
- "captured": "2026-09-01T18:41:25.224Z",
+ "captured": "2026-09-01T18:42:21.374Z",
  "command": "/orders spruce log",
  "pages": [
   {
@@ -26,8 +26,8 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 63 each",
-      "37.9m/75m Delivered",
+      "$ 60.14 each",
+      "17m/40m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -39,40 +39,14 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 60.14 each",
-      "17m/40m Delivered",
+      "$ 65.8 each",
+      "6.2m/30m Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
      "slot": 3,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 64.5 each",
-      "7.9m/12m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 4,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 64.1 each",
-      "7.7m/15m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 5,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -85,7 +59,7 @@
      ]
     },
     {
-     "slot": 6,
+     "slot": 4,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -98,7 +72,7 @@
      ]
     },
     {
-     "slot": 7,
+     "slot": 5,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -111,7 +85,7 @@
      ]
     },
     {
-     "slot": 8,
+     "slot": 6,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -124,20 +98,7 @@
      ]
     },
     {
-     "slot": 9,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 65 each",
-      "1.2m/5.5m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 10,
+     "slot": 7,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -150,7 +111,20 @@
      ]
     },
     {
-     "slot": 11,
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 66 each",
+      "931k/1.7m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -163,20 +137,20 @@
      ]
     },
     {
-     "slot": 12,
+     "slot": 10,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 65.7 each",
-      "484k/2m Delivered",
+      "$ 63 each",
+      "860k/1.2m Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
-     "slot": 13,
+     "slot": 11,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -189,20 +163,7 @@
      ]
     },
     {
-     "slot": 14,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 63 each",
-      "158k/1.2m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 15,
+     "slot": 12,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -215,7 +176,7 @@
      ]
     },
     {
-     "slot": 16,
+     "slot": 13,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -228,20 +189,7 @@
      ]
     },
     {
-     "slot": 17,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 63.5 each",
-      "21.8k/410k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 18,
+     "slot": 14,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -254,7 +202,7 @@
      ]
     },
     {
-     "slot": 19,
+     "slot": 15,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -267,7 +215,7 @@
      ]
     },
     {
-     "slot": 20,
+     "slot": 16,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -280,7 +228,7 @@
      ]
     },
     {
-     "slot": 21,
+     "slot": 17,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -293,7 +241,7 @@
      ]
     },
     {
-     "slot": 22,
+     "slot": 18,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -306,7 +254,7 @@
      ]
     },
     {
-     "slot": 23,
+     "slot": 19,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -319,7 +267,7 @@
      ]
     },
     {
-     "slot": 24,
+     "slot": 20,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -332,7 +280,7 @@
      ]
     },
     {
-     "slot": 25,
+     "slot": 21,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -345,7 +293,7 @@
      ]
     },
     {
-     "slot": 26,
+     "slot": 22,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -358,7 +306,7 @@
      ]
     },
     {
-     "slot": 27,
+     "slot": 23,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -371,7 +319,7 @@
      ]
     },
     {
-     "slot": 28,
+     "slot": 24,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -384,7 +332,7 @@
      ]
     },
     {
-     "slot": 29,
+     "slot": 25,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -397,7 +345,7 @@
      ]
     },
     {
-     "slot": 30,
+     "slot": 26,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -410,7 +358,7 @@
      ]
     },
     {
-     "slot": 31,
+     "slot": 27,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -423,7 +371,7 @@
      ]
     },
     {
-     "slot": 32,
+     "slot": 28,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -436,7 +384,7 @@
      ]
     },
     {
-     "slot": 33,
+     "slot": 29,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -449,20 +397,7 @@
      ]
     },
     {
-     "slot": 34,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 64.5 each",
-      "1.3k/12k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 35,
+     "slot": 30,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -475,20 +410,7 @@
      ]
     },
     {
-     "slot": 36,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 64 each",
-      "1.3k/100k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 37,
+     "slot": 31,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -501,7 +423,7 @@
      ]
     },
     {
-     "slot": 38,
+     "slot": 32,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -514,7 +436,7 @@
      ]
     },
     {
-     "slot": 39,
+     "slot": 33,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -527,7 +449,7 @@
      ]
     },
     {
-     "slot": 40,
+     "slot": 34,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -540,7 +462,7 @@
      ]
     },
     {
-     "slot": 41,
+     "slot": 35,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -553,7 +475,7 @@
      ]
     },
     {
-     "slot": 42,
+     "slot": 36,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -566,7 +488,7 @@
      ]
     },
     {
-     "slot": 43,
+     "slot": 37,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -579,7 +501,7 @@
      ]
     },
     {
-     "slot": 44,
+     "slot": 38,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -587,6 +509,84 @@
       "",
       "$ 1 each",
       "40.5k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "38.3k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "31k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "29.8k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "24.2k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "16.8k/2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "14.4k/25k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -663,7 +663,7 @@
      "lore": [
       "",
       "$ 1 each",
-      "8.6k/1m Delivered",
+      "10.9k/50k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -675,8 +675,8 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 57 each",
-      "132/100k Delivered",
+      "$ 1 each",
+      "8.6k/50k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -689,7 +689,7 @@
      "lore": [
       "",
       "$ 1 each",
-      "7.1k/1m Delivered",
+      "8.6k/1m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -701,8 +701,8 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 1 each",
-      "7k/100k Delivered",
+      "$ 57 each",
+      "132/100k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -715,13 +715,39 @@
      "lore": [
       "",
       "$ 1 each",
-      "7k/50k Delivered",
+      "7.1k/1m Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
      "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "7k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "7k/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -734,7 +760,7 @@
      ]
     },
     {
-     "slot": 6,
+     "slot": 8,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -747,7 +773,7 @@
      ]
     },
     {
-     "slot": 7,
+     "slot": 9,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -760,7 +786,7 @@
      ]
     },
     {
-     "slot": 8,
+     "slot": 10,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -773,7 +799,7 @@
      ]
     },
     {
-     "slot": 9,
+     "slot": 11,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -786,7 +812,7 @@
      ]
     },
     {
-     "slot": 10,
+     "slot": 12,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -799,7 +825,7 @@
      ]
     },
     {
-     "slot": 11,
+     "slot": 13,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -812,7 +838,7 @@
      ]
     },
     {
-     "slot": 12,
+     "slot": 14,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -825,7 +851,7 @@
      ]
     },
     {
-     "slot": 13,
+     "slot": 15,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -838,7 +864,7 @@
      ]
     },
     {
-     "slot": 14,
+     "slot": 16,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -851,7 +877,7 @@
      ]
     },
     {
-     "slot": 15,
+     "slot": 17,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -864,7 +890,7 @@
      ]
     },
     {
-     "slot": 16,
+     "slot": 18,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -877,7 +903,7 @@
      ]
     },
     {
-     "slot": 17,
+     "slot": 19,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -890,7 +916,7 @@
      ]
     },
     {
-     "slot": 18,
+     "slot": 20,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -903,7 +929,7 @@
      ]
     },
     {
-     "slot": 19,
+     "slot": 21,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -916,7 +942,7 @@
      ]
     },
     {
-     "slot": 20,
+     "slot": 22,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -929,7 +955,7 @@
      ]
     },
     {
-     "slot": 21,
+     "slot": 23,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -942,7 +968,7 @@
      ]
     },
     {
-     "slot": 22,
+     "slot": 24,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -955,7 +981,7 @@
      ]
     },
     {
-     "slot": 23,
+     "slot": 25,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -968,7 +994,7 @@
      ]
     },
     {
-     "slot": 24,
+     "slot": 26,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -981,7 +1007,7 @@
      ]
     },
     {
-     "slot": 25,
+     "slot": 27,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -994,7 +1020,7 @@
      ]
     },
     {
-     "slot": 26,
+     "slot": 28,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1007,7 +1033,7 @@
      ]
     },
     {
-     "slot": 27,
+     "slot": 29,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1020,7 +1046,7 @@
      ]
     },
     {
-     "slot": 28,
+     "slot": 30,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1033,7 +1059,7 @@
      ]
     },
     {
-     "slot": 29,
+     "slot": 31,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1046,7 +1072,7 @@
      ]
     },
     {
-     "slot": 30,
+     "slot": 32,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1059,7 +1085,7 @@
      ]
     },
     {
-     "slot": 31,
+     "slot": 33,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1072,7 +1098,7 @@
      ]
     },
     {
-     "slot": 32,
+     "slot": 34,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1085,7 +1111,7 @@
      ]
     },
     {
-     "slot": 33,
+     "slot": 35,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1098,7 +1124,7 @@
      ]
     },
     {
-     "slot": 34,
+     "slot": 36,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1111,7 +1137,7 @@
      ]
     },
     {
-     "slot": 35,
+     "slot": 37,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1124,7 +1150,7 @@
      ]
     },
     {
-     "slot": 36,
+     "slot": 38,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1137,7 +1163,7 @@
      ]
     },
     {
-     "slot": 37,
+     "slot": 39,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1150,7 +1176,7 @@
      ]
     },
     {
-     "slot": 38,
+     "slot": 40,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1158,32 +1184,6 @@
       "",
       "$ 50 each",
       "0/10k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 39,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 50 each",
-      "0/1m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 40,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 1 each",
-      "0/50k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1196,7 +1196,7 @@
      "lore": [
       "",
       "$ 50 each",
-      "0/10k Delivered",
+      "0/1m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1205,11 +1205,11 @@
      "slot": 42,
      "type": "spruce_log",
      "count": 1,
-     "name": "Spruce Log",
+     "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 10 each",
-      "0/1 Delivered",
+      "$ 1 each",
+      "0/50k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1221,8 +1221,8 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 52 each",
-      "0/1m Delivered",
+      "$ 50 each",
+      "0/10k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1231,11 +1231,11 @@
      "slot": 44,
      "type": "spruce_log",
      "count": 1,
-     "name": "Spruce Logs",
+     "name": "Spruce Log",
      "lore": [
       "",
-      "$ 20 each",
-      "0/5k Delivered",
+      "$ 10 each",
+      "0/1 Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1320,6 +1320,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 52 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 20 each",
       "0/5k Delivered",
       "",
@@ -1327,7 +1340,7 @@
      ]
     },
     {
-     "slot": 1,
+     "slot": 2,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1340,7 +1353,7 @@
      ]
     },
     {
-     "slot": 2,
+     "slot": 3,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1353,7 +1366,7 @@
      ]
     },
     {
-     "slot": 3,
+     "slot": 4,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1366,7 +1379,7 @@
      ]
     },
     {
-     "slot": 4,
+     "slot": 5,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1379,7 +1392,7 @@
      ]
     },
     {
-     "slot": 5,
+     "slot": 6,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1392,7 +1405,7 @@
      ]
     },
     {
-     "slot": 6,
+     "slot": 7,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1405,7 +1418,7 @@
      ]
     },
     {
-     "slot": 7,
+     "slot": 8,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1418,7 +1431,7 @@
      ]
     },
     {
-     "slot": 8,
+     "slot": 9,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1431,7 +1444,7 @@
      ]
     },
     {
-     "slot": 9,
+     "slot": 10,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1439,19 +1452,6 @@
       "",
       "$ 50 each",
       "0/1k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 10,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 1 each",
-      "0/200k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1464,7 +1464,7 @@
      "lore": [
       "",
       "$ 1 each",
-      "0/1.7m Delivered",
+      "0/200k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1476,8 +1476,8 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 15 each",
-      "0/64 Delivered",
+      "$ 1 each",
+      "0/1.7m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1489,8 +1489,8 @@
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 11 each",
-      "0/100k Delivered",
+      "$ 15 each",
+      "0/64 Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1503,13 +1503,26 @@
      "lore": [
       "",
       "$ 11 each",
-      "0/100 Delivered",
+      "0/100k Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
      "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 11 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1522,7 +1535,7 @@
      ]
     },
     {
-     "slot": 16,
+     "slot": 17,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1535,7 +1548,7 @@
      ]
     },
     {
-     "slot": 17,
+     "slot": 18,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1548,7 +1561,7 @@
      ]
     },
     {
-     "slot": 18,
+     "slot": 19,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1561,7 +1574,7 @@
      ]
     },
     {
-     "slot": 19,
+     "slot": 20,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1574,7 +1587,7 @@
      ]
     },
     {
-     "slot": 20,
+     "slot": 21,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1587,7 +1600,7 @@
      ]
     },
     {
-     "slot": 21,
+     "slot": 22,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1600,7 +1613,7 @@
      ]
     },
     {
-     "slot": 22,
+     "slot": 23,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1613,7 +1626,7 @@
      ]
     },
     {
-     "slot": 23,
+     "slot": 24,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1626,7 +1639,7 @@
      ]
     },
     {
-     "slot": 24,
+     "slot": 25,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1639,7 +1652,7 @@
      ]
     },
     {
-     "slot": 25,
+     "slot": 26,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1652,7 +1665,7 @@
      ]
     },
     {
-     "slot": 26,
+     "slot": 27,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1665,7 +1678,7 @@
      ]
     },
     {
-     "slot": 27,
+     "slot": 28,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1678,26 +1691,13 @@
      ]
     },
     {
-     "slot": 28,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 5 each",
-      "0/100k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 29,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 2.1 each",
+      "$ 5 each",
       "0/100k Delivered",
       "",
       "Click to deliver items"
@@ -1710,6 +1710,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 2.1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 60.8 each",
       "0/234 Delivered",
       "",
@@ -1717,7 +1730,7 @@
      ]
     },
     {
-     "slot": 31,
+     "slot": 32,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1730,7 +1743,7 @@
      ]
     },
     {
-     "slot": 32,
+     "slot": 33,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1743,7 +1756,7 @@
      ]
     },
     {
-     "slot": 33,
+     "slot": 34,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1756,7 +1769,7 @@
      ]
     },
     {
-     "slot": 34,
+     "slot": 35,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1769,7 +1782,7 @@
      ]
     },
     {
-     "slot": 35,
+     "slot": 36,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1782,7 +1795,7 @@
      ]
     },
     {
-     "slot": 36,
+     "slot": 37,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1795,7 +1808,7 @@
      ]
     },
     {
-     "slot": 37,
+     "slot": 38,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1808,7 +1821,7 @@
      ]
     },
     {
-     "slot": 38,
+     "slot": 39,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1821,7 +1834,7 @@
      ]
     },
     {
-     "slot": 39,
+     "slot": 40,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1834,7 +1847,7 @@
      ]
     },
     {
-     "slot": 40,
+     "slot": 41,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1847,7 +1860,7 @@
      ]
     },
     {
-     "slot": 41,
+     "slot": 42,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1860,7 +1873,7 @@
      ]
     },
     {
-     "slot": 42,
+     "slot": 43,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1873,7 +1886,7 @@
      ]
     },
     {
-     "slot": 43,
+     "slot": 44,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1881,19 +1894,6 @@
       "",
       "$ 40 each",
       "0/10k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 44,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 50.1 each",
-      "0/12k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -1978,6 +1978,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 50.1 each",
+      "0/12k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 1 each",
       "0/100k Delivered",
       "",
@@ -1985,7 +1998,7 @@
      ]
     },
     {
-     "slot": 1,
+     "slot": 2,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -1998,7 +2011,7 @@
      ]
     },
     {
-     "slot": 2,
+     "slot": 3,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2011,7 +2024,7 @@
      ]
     },
     {
-     "slot": 3,
+     "slot": 4,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2024,7 +2037,7 @@
      ]
     },
     {
-     "slot": 4,
+     "slot": 5,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2032,19 +2045,6 @@
       "",
       "$ 50 each",
       "0/100 Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 5,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 60 each",
-      "0/3.4m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -2057,13 +2057,26 @@
      "lore": [
       "",
       "$ 60 each",
-      "0/900 Delivered",
+      "0/3.4m Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
      "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/900 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2076,26 +2089,13 @@
      ]
     },
     {
-     "slot": 8,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 48 each",
-      "0/10k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 9,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 1 each",
+      "$ 48 each",
       "0/10k Delivered",
       "",
       "Click to deliver items"
@@ -2108,6 +2108,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 1 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 30 each",
       "0/50k Delivered",
       "",
@@ -2115,7 +2128,7 @@
      ]
     },
     {
-     "slot": 11,
+     "slot": 12,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2128,7 +2141,7 @@
      ]
     },
     {
-     "slot": 12,
+     "slot": 13,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2141,7 +2154,7 @@
      ]
     },
     {
-     "slot": 13,
+     "slot": 14,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Log",
@@ -2154,7 +2167,7 @@
      ]
     },
     {
-     "slot": 14,
+     "slot": 15,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2167,26 +2180,13 @@
      ]
     },
     {
-     "slot": 15,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 1 each",
-      "0/100k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 16,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 2.1 each",
+      "$ 1 each",
       "0/100k Delivered",
       "",
       "Click to deliver items"
@@ -2199,6 +2199,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 2.1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 10 each",
       "0/1k Delivered",
       "",
@@ -2206,7 +2219,7 @@
      ]
     },
     {
-     "slot": 18,
+     "slot": 19,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2219,7 +2232,7 @@
      ]
     },
     {
-     "slot": 19,
+     "slot": 20,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2232,7 +2245,7 @@
      ]
     },
     {
-     "slot": 20,
+     "slot": 21,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Log",
@@ -2245,7 +2258,7 @@
      ]
     },
     {
-     "slot": 21,
+     "slot": 22,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2258,26 +2271,13 @@
      ]
     },
     {
-     "slot": 22,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 1 each",
-      "0/100k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 23,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 60 each",
+      "$ 1 each",
       "0/100k Delivered",
       "",
       "Click to deliver items"
@@ -2290,6 +2290,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 60 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 40 each",
       "0/10k Delivered",
       "",
@@ -2297,7 +2310,7 @@
      ]
     },
     {
-     "slot": 25,
+     "slot": 26,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2310,7 +2323,7 @@
      ]
     },
     {
-     "slot": 26,
+     "slot": 27,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2323,7 +2336,7 @@
      ]
     },
     {
-     "slot": 27,
+     "slot": 28,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2336,7 +2349,7 @@
      ]
     },
     {
-     "slot": 28,
+     "slot": 29,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2349,7 +2362,7 @@
      ]
     },
     {
-     "slot": 29,
+     "slot": 30,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Log",
@@ -2362,7 +2375,7 @@
      ]
     },
     {
-     "slot": 30,
+     "slot": 31,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2375,7 +2388,7 @@
      ]
     },
     {
-     "slot": 31,
+     "slot": 32,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2388,7 +2401,7 @@
      ]
     },
     {
-     "slot": 32,
+     "slot": 33,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2401,7 +2414,7 @@
      ]
     },
     {
-     "slot": 33,
+     "slot": 34,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2414,7 +2427,7 @@
      ]
     },
     {
-     "slot": 34,
+     "slot": 35,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2427,7 +2440,7 @@
      ]
     },
     {
-     "slot": 35,
+     "slot": 36,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2440,7 +2453,7 @@
      ]
     },
     {
-     "slot": 36,
+     "slot": 37,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2453,7 +2466,7 @@
      ]
     },
     {
-     "slot": 37,
+     "slot": 38,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2466,7 +2479,7 @@
      ]
     },
     {
-     "slot": 38,
+     "slot": 39,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2479,7 +2492,7 @@
      ]
     },
     {
-     "slot": 39,
+     "slot": 40,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2492,7 +2505,7 @@
      ]
     },
     {
-     "slot": 40,
+     "slot": 41,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2505,7 +2518,7 @@
      ]
     },
     {
-     "slot": 41,
+     "slot": 42,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2518,7 +2531,7 @@
      ]
     },
     {
-     "slot": 42,
+     "slot": 43,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2531,19 +2544,6 @@
      ]
     },
     {
-     "slot": 43,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 1 each",
-      "0/10m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 44,
      "type": "spruce_log",
      "count": 1,
@@ -2551,7 +2551,7 @@
      "lore": [
       "",
       "$ 1 each",
-      "0/175m Delivered",
+      "0/10m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -2636,6 +2636,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 1 each",
+      "0/175m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 50 each",
       "0/64 Delivered",
       "",
@@ -2643,7 +2656,7 @@
      ]
     },
     {
-     "slot": 1,
+     "slot": 2,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Log",
@@ -2656,7 +2669,7 @@
      ]
     },
     {
-     "slot": 2,
+     "slot": 3,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2669,7 +2682,7 @@
      ]
     },
     {
-     "slot": 3,
+     "slot": 4,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2682,7 +2695,7 @@
      ]
     },
     {
-     "slot": 4,
+     "slot": 5,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2695,7 +2708,7 @@
      ]
     },
     {
-     "slot": 5,
+     "slot": 6,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2708,7 +2721,7 @@
      ]
     },
     {
-     "slot": 6,
+     "slot": 7,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2721,7 +2734,7 @@
      ]
     },
     {
-     "slot": 7,
+     "slot": 8,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2734,7 +2747,7 @@
      ]
     },
     {
-     "slot": 8,
+     "slot": 9,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2747,7 +2760,7 @@
      ]
     },
     {
-     "slot": 9,
+     "slot": 10,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2760,7 +2773,7 @@
      ]
     },
     {
-     "slot": 10,
+     "slot": 11,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2773,7 +2786,7 @@
      ]
     },
     {
-     "slot": 11,
+     "slot": 12,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2786,7 +2799,7 @@
      ]
     },
     {
-     "slot": 12,
+     "slot": 13,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2799,7 +2812,7 @@
      ]
     },
     {
-     "slot": 13,
+     "slot": 14,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2812,7 +2825,7 @@
      ]
     },
     {
-     "slot": 14,
+     "slot": 15,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2825,7 +2838,7 @@
      ]
     },
     {
-     "slot": 15,
+     "slot": 16,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2838,7 +2851,7 @@
      ]
     },
     {
-     "slot": 16,
+     "slot": 17,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2851,7 +2864,7 @@
      ]
     },
     {
-     "slot": 17,
+     "slot": 18,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2864,7 +2877,7 @@
      ]
     },
     {
-     "slot": 18,
+     "slot": 19,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2877,7 +2890,7 @@
      ]
     },
     {
-     "slot": 19,
+     "slot": 20,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2890,7 +2903,7 @@
      ]
     },
     {
-     "slot": 20,
+     "slot": 21,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2903,7 +2916,7 @@
      ]
     },
     {
-     "slot": 21,
+     "slot": 22,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2916,7 +2929,7 @@
      ]
     },
     {
-     "slot": 22,
+     "slot": 23,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2929,7 +2942,7 @@
      ]
     },
     {
-     "slot": 23,
+     "slot": 24,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2942,7 +2955,7 @@
      ]
     },
     {
-     "slot": 24,
+     "slot": 25,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2955,7 +2968,7 @@
      ]
     },
     {
-     "slot": 25,
+     "slot": 26,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2968,7 +2981,7 @@
      ]
     },
     {
-     "slot": 26,
+     "slot": 27,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2981,7 +2994,7 @@
      ]
     },
     {
-     "slot": 27,
+     "slot": 28,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -2994,7 +3007,7 @@
      ]
     },
     {
-     "slot": 28,
+     "slot": 29,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3007,7 +3020,7 @@
      ]
     },
     {
-     "slot": 29,
+     "slot": 30,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3020,7 +3033,7 @@
      ]
     },
     {
-     "slot": 30,
+     "slot": 31,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3033,7 +3046,7 @@
      ]
     },
     {
-     "slot": 31,
+     "slot": 32,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3046,7 +3059,7 @@
      ]
     },
     {
-     "slot": 32,
+     "slot": 33,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3059,26 +3072,13 @@
      ]
     },
     {
-     "slot": 33,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 48 each",
-      "0/100k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 34,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 1 each",
+      "$ 48 each",
       "0/100k Delivered",
       "",
       "Click to deliver items"
@@ -3092,13 +3092,26 @@
      "lore": [
       "",
       "$ 1 each",
-      "0/1m Delivered",
+      "0/100k Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
      "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3111,7 +3124,7 @@
      ]
     },
     {
-     "slot": 37,
+     "slot": 38,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3124,7 +3137,7 @@
      ]
     },
     {
-     "slot": 38,
+     "slot": 39,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3137,7 +3150,7 @@
      ]
     },
     {
-     "slot": 39,
+     "slot": 40,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3150,7 +3163,7 @@
      ]
     },
     {
-     "slot": 40,
+     "slot": 41,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3163,7 +3176,7 @@
      ]
     },
     {
-     "slot": 41,
+     "slot": 42,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3176,7 +3189,7 @@
      ]
     },
     {
-     "slot": 42,
+     "slot": 43,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3189,19 +3202,6 @@
      ]
     },
     {
-     "slot": 43,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 1 each",
-      "0/200k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 44,
      "type": "spruce_log",
      "count": 1,
@@ -3209,7 +3209,7 @@
      "lore": [
       "",
       "$ 1 each",
-      "0/5k Delivered",
+      "0/200k Delivered",
       "",
       "Click to deliver items"
      ]
@@ -3294,6 +3294,19 @@
      "name": "Spruce Logs",
      "lore": [
       "",
+      "$ 1 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
       "$ 15 each",
       "0/100k Delivered",
       "",
@@ -3301,7 +3314,7 @@
      ]
     },
     {
-     "slot": 1,
+     "slot": 2,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Log",
@@ -3314,7 +3327,7 @@
      ]
     },
     {
-     "slot": 2,
+     "slot": 3,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3327,7 +3340,7 @@
      ]
     },
     {
-     "slot": 3,
+     "slot": 4,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3340,7 +3353,7 @@
      ]
     },
     {
-     "slot": 4,
+     "slot": 5,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3353,7 +3366,7 @@
      ]
     },
     {
-     "slot": 5,
+     "slot": 6,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3366,7 +3379,7 @@
      ]
     },
     {
-     "slot": 6,
+     "slot": 7,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3379,7 +3392,7 @@
      ]
     },
     {
-     "slot": 7,
+     "slot": 8,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3392,7 +3405,7 @@
      ]
     },
     {
-     "slot": 8,
+     "slot": 9,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3405,7 +3418,7 @@
      ]
     },
     {
-     "slot": 9,
+     "slot": 10,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3418,7 +3431,7 @@
      ]
     },
     {
-     "slot": 10,
+     "slot": 11,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3431,7 +3444,7 @@
      ]
     },
     {
-     "slot": 11,
+     "slot": 12,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3444,7 +3457,7 @@
      ]
     },
     {
-     "slot": 12,
+     "slot": 13,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3457,7 +3470,7 @@
      ]
     },
     {
-     "slot": 13,
+     "slot": 14,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3470,26 +3483,13 @@
      ]
     },
     {
-     "slot": 14,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 10 each",
-      "0/500k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
      "slot": 15,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
      "lore": [
       "",
-      "$ 1 each",
+      "$ 10 each",
       "0/500k Delivered",
       "",
       "Click to deliver items"
@@ -3503,13 +3503,26 @@
      "lore": [
       "",
       "$ 1 each",
-      "0/80k Delivered",
+      "0/500k Delivered",
       "",
       "Click to deliver items"
      ]
     },
     {
      "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/80k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3522,7 +3535,7 @@
      ]
     },
     {
-     "slot": 18,
+     "slot": 19,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3535,7 +3548,7 @@
      ]
     },
     {
-     "slot": 19,
+     "slot": 20,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3548,7 +3561,7 @@
      ]
     },
     {
-     "slot": 20,
+     "slot": 21,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3561,7 +3574,7 @@
      ]
     },
     {
-     "slot": 21,
+     "slot": 22,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3574,7 +3587,7 @@
      ]
     },
     {
-     "slot": 22,
+     "slot": 23,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3587,7 +3600,7 @@
      ]
     },
     {
-     "slot": 23,
+     "slot": 24,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3600,7 +3613,7 @@
      ]
     },
     {
-     "slot": 24,
+     "slot": 25,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3613,7 +3626,7 @@
      ]
     },
     {
-     "slot": 25,
+     "slot": 26,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3626,7 +3639,7 @@
      ]
     },
     {
-     "slot": 26,
+     "slot": 27,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3639,7 +3652,7 @@
      ]
     },
     {
-     "slot": 27,
+     "slot": 28,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3652,7 +3665,7 @@
      ]
     },
     {
-     "slot": 28,
+     "slot": 29,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3665,7 +3678,7 @@
      ]
     },
     {
-     "slot": 29,
+     "slot": 30,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3678,7 +3691,7 @@
      ]
     },
     {
-     "slot": 30,
+     "slot": 31,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3691,7 +3704,7 @@
      ]
     },
     {
-     "slot": 31,
+     "slot": 32,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3704,7 +3717,7 @@
      ]
     },
     {
-     "slot": 32,
+     "slot": 33,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3717,7 +3730,7 @@
      ]
     },
     {
-     "slot": 33,
+     "slot": 34,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3730,7 +3743,7 @@
      ]
     },
     {
-     "slot": 34,
+     "slot": 35,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3743,7 +3756,7 @@
      ]
     },
     {
-     "slot": 35,
+     "slot": 36,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3756,7 +3769,7 @@
      ]
     },
     {
-     "slot": 36,
+     "slot": 37,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3769,7 +3782,7 @@
      ]
     },
     {
-     "slot": 37,
+     "slot": 38,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3782,7 +3795,7 @@
      ]
     },
     {
-     "slot": 38,
+     "slot": 39,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3795,7 +3808,7 @@
      ]
     },
     {
-     "slot": 39,
+     "slot": 40,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3808,7 +3821,7 @@
      ]
     },
     {
-     "slot": 40,
+     "slot": 41,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3821,7 +3834,7 @@
      ]
     },
     {
-     "slot": 41,
+     "slot": 42,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3834,7 +3847,7 @@
      ]
     },
     {
-     "slot": 42,
+     "slot": 43,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3847,7 +3860,7 @@
      ]
     },
     {
-     "slot": 43,
+     "slot": 44,
      "type": "spruce_log",
      "count": 1,
      "name": "Spruce Logs",
@@ -3855,19 +3868,6 @@
       "",
       "$ 57 each",
       "0/10k Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 44,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 10 each",
-      "0/100 Delivered",
       "",
       "Click to deliver items"
      ]
@@ -6083,7 +6083,7 @@
      "lore": [
       "",
       "$ 65 each",
-      "0/10k Delivered",
+      "0/4.7m Delivered",
       "",
       "Click to deliver items"
      ]
@@ -6096,20 +6096,7 @@
      "lore": [
       "",
       "$ 65 each",
-      "0/4.7m Delivered",
-      "",
-      "Click to deliver items"
-     ]
-    },
-    {
-     "slot": 14,
-     "type": "spruce_log",
-     "count": 1,
-     "name": "Spruce Logs",
-     "lore": [
-      "",
-      "$ 63 each",
-      "0/10k Delivered",
+      "0/50k Delivered",
       "",
       "Click to deliver items"
      ]
