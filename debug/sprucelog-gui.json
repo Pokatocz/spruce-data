@@ -1,0 +1,6256 @@
+{
+ "captured": "2026-09-01T18:03:06.715Z",
+ "command": "/orders spruce log",
+ "pages": [
+  {
+   "title": "Orders (Page 1)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.54 each",
+      "78m/80m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63 each",
+      "37.9m/75m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.14 each",
+      "17m/40m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63.55 each",
+      "8.7m/12m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.11 each",
+      "3.8m/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 58 each",
+      "3.7m/8m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "3.1m/19m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 59.1 each",
+      "977k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.01 each",
+      "578k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 65 each",
+      "400k/400k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63.66 each",
+      "202k/2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63 each",
+      "158k/1.2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63 each",
+      "124k/6.5m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "118k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 65 each",
+      "100k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.01 each",
+      "99k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63 each",
+      "57.5k/2.5m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63 each",
+      "36.8k/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.01 each",
+      "16k/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "421k/5m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "396k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 6.7 each",
+      "47.7k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.01 each",
+      "4.7k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "288k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "250k/3m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "220k/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.3 each",
+      "3k/80k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "180k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "174k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "2.6k/40k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "2.3k/3k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 57 each",
+      "2.4k/1.3m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "137k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "2.3k/9k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "1.5k/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "1.7k/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "1.3k/2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "79.9k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "78.8k/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "74.3k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "65.6k/300k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "1.1k/3k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "44.9k/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "40.5k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "38.3k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 2)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "31k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "29.8k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "24.2k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "16.8k/2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "14.4k/25k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "10.9k/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "8.6k/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "8.6k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 57 each",
+      "132/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "7.1k/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "7k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "7k/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.6 each",
+      "113/30m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "128/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "6.2k/800k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "5.8k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 53 each",
+      "108/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "5.4k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "62/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "64/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "64/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "64/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 53 each",
+      "64/128 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 49 each",
+      "64/200 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "51/128 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "49/1.4m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 31 each",
+      "64/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "27/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "1.4k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "1.1k/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "17/128 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "789/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 47 each",
+      "16/400k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "32/30k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "625/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "59/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 12 each",
+      "36/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "36/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.58 each",
+      "2/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "13/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "2/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 12 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 3)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/500 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 52 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/250k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 25 each",
+      "0/600k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/2.5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 58 each",
+      "0/1.7m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1.7m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 11 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 11 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/72 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/9.9k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 49 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 11 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 44 each",
+      "0/30k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/210k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/120 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/600 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.01 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1.5 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2.1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.8 each",
+      "0/234 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 25 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 6.7 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 4)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/200 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/500 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/500 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50.1 each",
+      "0/12k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/3k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/3k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/4k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/3.4m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/900 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/2.5m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 24 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2.1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/300 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 9.7 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 11 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/6.7k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/45k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/12k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/8m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 5)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1b Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/16 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/192k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/175m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 45 each",
+      "0/500 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/500 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/200 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.2 each",
+      "0/2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/15k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 16 each",
+      "0/300 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10.3k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/2.8k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/65 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 17 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55.01 each",
+      "0/9.1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/4m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20.8 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/12 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.01 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 12 each",
+      "0/40 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 6)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/70k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 54 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 49 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 21 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/4m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/4k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/140k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 53 each",
+      "0/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/11k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 59.11 each",
+      "0/300k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/9k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/80k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/500 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 56.1 each",
+      "0/50m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 45 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 7)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 58.01 each",
+      "0/30m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/200 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 4 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 57 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/200 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/512 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/256 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/200 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 11 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/50 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 42 each",
+      "0/300 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/1.5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 51 each",
+      "0/6.4k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/9.9k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 2 each",
+      "0/500k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/30m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/600m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/10 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/128 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/240 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/300k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 47 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55 each",
+      "0/5.1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/8.8m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 8)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 19 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/900k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 49 each",
+      "0/8.5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 56 each",
+      "0/128 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1.5 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 51 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55 each",
+      "0/1.8m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 8 each",
+      "0/1b Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 30 each",
+      "0/256 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 5 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/1.2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 40 each",
+      "0/128 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 24 each",
+      "0/400 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/4m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/430m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/150k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 25 each",
+      "0/11k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.2 each",
+      "0/6m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Log",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/1 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/1.7k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/1.7k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.5 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 57 each",
+      "0/30k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/3k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 9)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.61 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 20 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.12 each",
+      "0/9m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 21.3 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/400 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 7 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 48 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.1 each",
+      "0/3m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.5 each",
+      "0/5k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/64 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 52 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.5 each",
+      "0/11.2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.5 each",
+      "0/2.2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.1 each",
+      "0/2.9m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60.3 each",
+      "0/5m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 21,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/20k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 22,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/4k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 23,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 24,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 25,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 26,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 58 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 27,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/13k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 28,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/15m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 29,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 45 each",
+      "0/50k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 30,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/890k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 31,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/24k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 32,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/1k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 33,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/60k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 34,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 10 each",
+      "0/999 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 35,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/30k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 36,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.62 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 37,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.01 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 38,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.26 each",
+      "0/2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 39,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/2k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 40,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/700m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 41,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 42,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 1 each",
+      "0/100k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 43,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 44,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.1 each",
+      "0/432k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 53,
+     "type": "arrow",
+     "count": 1,
+     "name": "Next page",
+     "lore": [
+      "Click to view next page"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orders (Page 10)",
+   "type": "minecraft:generic_9x6",
+   "slots": [
+    {
+     "slot": 0,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.1 each",
+      "0/432k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 1,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 35 each",
+      "0/100 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 2,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.8 each",
+      "0/1m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 3,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 15 each",
+      "0/512 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 4,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 55 each",
+      "0/200k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 5,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.71 each",
+      "0/8.2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 6,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61.71 each",
+      "0/8.2m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 7,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 61 each",
+      "0/9m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 8,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63 each",
+      "0/55k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 9,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 60 each",
+      "0/10k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 10,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.11 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 11,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.11 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 12,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.11 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 13,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.11 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 14,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.11 each",
+      "0/10m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 15,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62.1 each",
+      "0/7.5m Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 16,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 50 each",
+      "0/13k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 17,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63.5 each",
+      "0/250k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 18,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 63.5 each",
+      "0/410k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 19,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 62 each",
+      "0/40k Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 20,
+     "type": "spruce_log",
+     "count": 1,
+     "name": "Spruce Logs",
+     "lore": [
+      "",
+      "$ 67 each",
+      "0/450 Delivered",
+      "",
+      "Click to deliver items"
+     ]
+    },
+    {
+     "slot": 45,
+     "type": "arrow",
+     "count": 1,
+     "name": "Previous Page",
+     "lore": [
+      "Click to view previous page"
+     ]
+    },
+    {
+     "slot": 47,
+     "type": "hopper",
+     "count": 1,
+     "name": "Filter",
+     "lore": [
+      "Click to change",
+      "",
+      "▪ Most Per Item",
+      "▪ Most Paid",
+      "▪ Recently Listed"
+     ]
+    },
+    {
+     "slot": 48,
+     "type": "amethyst_shard",
+     "count": 1,
+     "name": "Shard Shop",
+     "lore": [
+      "Click to view"
+     ]
+    },
+    {
+     "slot": 49,
+     "type": "book",
+     "count": 1,
+     "name": "Orders",
+     "lore": [
+      "Request and deliver items"
+     ]
+    },
+    {
+     "slot": 50,
+     "type": "oak_sign",
+     "count": 1,
+     "name": "Search",
+     "lore": [
+      "Click to search"
+     ]
+    },
+    {
+     "slot": 51,
+     "type": "chest",
+     "count": 1,
+     "name": "Your Orders",
+     "lore": [
+      "Click to view"
+     ]
+    }
+   ]
+  }
+ ]
+}
